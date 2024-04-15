@@ -1,7 +1,5 @@
 # Noughtx App
 
-_**Note:** this project is a work in progress_
-
 A spartan tic-tac-toe game.
 
 The name 'Noughtx' derives from the portmanteau of 'nought' and 'X'.
@@ -14,6 +12,8 @@ The name 'Noughtx' derives from the portmanteau of 'nought' and 'X'.
 - [Stack](#stack)
 
 ## Demo
+
+https://noughtx.vercel.app/
 
 ## Introduction
 
